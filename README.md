@@ -36,15 +36,17 @@
 <a href = "33">33. Practice on recursion</a></br>
 
 
-### 01. Introduction
+### 1. Introduction
 
-### 02. NumPy
+### 2. NumPy
 #### NumPy
 NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
 NumPy is a basic level external library in Python used for complex mathematical operations. NumPy overcomes slower executions with the use of multi-dimensional array objects. It has built-in functions for manipulating arrays. We can convert different algorithms to can into functions for applying on arrays. NumPy has applications that are not only limited to itself. It is a very diverse library and has a wide range of applications in other sectors. Numpy can be put to use along with Data Science, Data Analysis and Machine Learning. It is also a base for other python libraries. These libraries use the functionalities in NumPy to increase their capabilities.
 
-### 03. Creating Arrays
+### 3. Creating Arrays
+#### 3.1 0D Array
+
 <li>
   NumPy is used to work with arrays. The array object in NumP is called <code>ndarray</code>.
 </li>
@@ -55,10 +57,27 @@ NumPy is a basic level external library in Python used for complex mathematical 
   0-D array, or Scalsrs, are the elements in an array. Each value in an array is a 0-D array.
 </li>
 
+<h6>Createa 0-D array with value 95</h6>
+
 ```python
 import numpy as np
 
-arr = 42
+arr = np.array(95)
+
+print(arr)
+```
+
+#### 3.2 1D Array
+
+<li>An array that has 0-D arrays as its elements are called uni-dimensional or 1-D array</li>
+<li>These are the most common and basic arrays</li>
+
+<h6>Create a 1-D array containing the value 1, 2, 3, 4, 5</h6>
+
+```python
+import numpy as np
+
+arr = np.array([1,2,3,4,5])
 
 print(arr)
 ```
