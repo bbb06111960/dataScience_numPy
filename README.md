@@ -1,42 +1,42 @@
 # Data Science - Python NumPy
 ## Table of contents
 
-<a href = "01.Introduction">01. Introduction</a></br>
-<a href = "01.Introduction">02. NumPy</a></br>
-<a href = "01.Introduction">03. Creating Arrays</a></br>
-<a href = "01.Introduction">04. Dimension of Arrays</a></br>
-<a href = "01.Introduction">05. NumPy Array Indexing</a></br>
-<a href = "01.Introduction">06. NumPy Array Slicing</a></br>
-<a href = "01.Introduction">07. NumPy Data Types</a></br>
-<a href = "01.Introduction">08. NumPy Array Copy vs View</a></br>
-<a href = "01.Introduction">09. NumPy Array Shape</a></br>
-<a href = "01.Introduction">10. NumPy Array Reshaping</a></br>
-<a href = "01.Introduction">11. NumPy Array Iterating</a></br>
-<a href = "01.Introduction">12. NumPy Joining Array</a></br>
-<a href = "01.Introduction">13. NumP Splitting Array</a></br>
-<a href = "01.Introduction">14. NumPy Searching Arrays</a></br>
-<a href = "01.Introduction">15. NumPy Sorting Arrays</a></br>
-<a href = "01.Introduction">16. NumPy Filter Array</a></br>
-<a href = "01.Introduction">17. Random Numbers in NumPy</a></br>
-<a href = "01.Introduction">18. Generate Randome Numbers</a></br>
-<a href = "01.Introduction">19. Generate Random Float</a></br>
-<a href = "01.Introduction">20. Generate Random Array</a></br>
-<a href = "01.Introduction">21. Generate Random Number from Array</a></br>
-<a href = "01.Introduction">22. NumPy ufunc</a></br>
-<a href = "01.Introduction">23. Create your own ufunc</a></br>
-<a href = "01.Introduction">24. Arithmetic function</a></br>
-<a href = "01.Introduction">25. NumPy Set Operations</a></br>
-<a href = "01.Introduction">26. Creating Sets</a></br>
-<a href = "01.Introduction">27. Finding Union</a></br>
-<a href = "01.Introduction">28. Finding Intersection</a></br>
-<a href = "01.Introduction">29. Finding Difference</a></br>
-<a href = "01.Introduction">30. Recursion</a></br>
-<a href = "01.Introduction">31. Basic Recursion</a></br>
-<a href = "01.Introduction">32. Advanced Recursion</a></br>
-<a href = "01.Introduction">33. Practice on recursion</a></br>
+<a href = "01">01. Introduction</a></br>
+<a href = "02">02. NumPy</a></br>
+<a href = "03">03. Creating Arrays</a></br>
+<a href = "04">04. Dimension of Arrays</a></br>
+<a href = "05">05. NumPy Array Indexing</a></br>
+<a href = "06">06. NumPy Array Slicing</a></br>
+<a href = "07">07. NumPy Data Types</a></br>
+<a href = "08">08. NumPy Array Copy vs View</a></br>
+<a href = "09">09. NumPy Array Shape</a></br>
+<a href = "10">10. NumPy Array Reshaping</a></br>
+<a href = "11">11. NumPy Array Iterating</a></br>
+<a href = "12">12. NumPy Joining Array</a></br>
+<a href = "13">13. NumP Splitting Array</a></br>
+<a href = "14">14. NumPy Searching Arrays</a></br>
+<a href = "15">15. NumPy Sorting Arrays</a></br>
+<a href = "16">16. NumPy Filter Array</a></br>
+<a href = "17">17. Random Numbers in NumPy</a></br>
+<a href = "18">18. Generate Randome Numbers</a></br>
+<a href = "19">19. Generate Random Float</a></br>
+<a href = "20">20. Generate Random Array</a></br>
+<a href = "21">21. Generate Random Number from Array</a></br>
+<a href = "22">22. NumPy ufunc</a></br>
+<a href = "23">23. Create your own ufunc</a></br>
+<a href = "24">24. Arithmetic function</a></br>
+<a href = "25">25. NumPy Set Operations</a></br>
+<a href = "26">26. Creating Sets</a></br>
+<a href = "27">27. Finding Union</a></br>
+<a href = "28">28. Finding Intersection</a></br>
+<a href = "29">29. Finding Difference</a></br>
+<a href = "30">30. Recursion</a></br>
+<a href = "31">31. Basic Recursion</a></br>
+<a href = "32">32. Advanced Recursion</a></br>
+<a href = "33">33. Practice on recursion</a></br>
 
 
-### 01. Introduction
+<h3 id="01">01. Introduction</h3>
 ### 02. NumPy
 ### 03. Creating Arrays
 ### 04. Dimension of Arrays
